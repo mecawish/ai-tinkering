@@ -13,6 +13,9 @@
   "dependencies": {
     "dotenv": "^16.5.0",
     "langchain": "^0.3.24",
-    "openai": "^4.94.0"
+    "openai": "^4.94.0",
+    "pdf-parse": "^1.1.1",
+    "youtube-transcript": "^1.2.1",
+    "youtubei.js": "^13.4.0"
   }
 }
